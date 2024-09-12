@@ -1,0 +1,10 @@
+C:\Users\DELL E7250\Documents\Evaluacion\Evaluacion\Usuarios\obj\Debug\RegistroUsuarios.csproj.AssemblyReference.cache
+C:\Users\DELL E7250\Documents\Evaluacion\Evaluacion\Usuarios\obj\Debug\Usuarios.Form1.resources
+C:\Users\DELL E7250\Documents\Evaluacion\Evaluacion\Usuarios\obj\Debug\Usuarios.Properties.Resources.resources
+C:\Users\DELL E7250\Documents\Evaluacion\Evaluacion\Usuarios\obj\Debug\RegistroUsuarios.csproj.GenerateResource.cache
+C:\Users\DELL E7250\Documents\Evaluacion\Evaluacion\Usuarios\obj\Debug\RegistroUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\DELL E7250\Documents\Evaluacion\Evaluacion\Usuarios\bin\Debug\Usuarios.exe.config
+C:\Users\DELL E7250\Documents\Evaluacion\Evaluacion\Usuarios\bin\Debug\Usuarios.exe
+C:\Users\DELL E7250\Documents\Evaluacion\Evaluacion\Usuarios\bin\Debug\Usuarios.pdb
+C:\Users\DELL E7250\Documents\Evaluacion\Evaluacion\Usuarios\obj\Debug\Usuarios.exe
+C:\Users\DELL E7250\Documents\Evaluacion\Evaluacion\Usuarios\obj\Debug\Usuarios.pdb

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6D0ECBF9-E465-4AD2-8690-8A8E2D0D4D06}</ProjectGuid>
+    <ProjectGuid>{117A4F53-26A6-4F01-B012-489F8581D417}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Evaluacion</RootNamespace>
-    <AssemblyName>Evaluacion</AssemblyName>
+    <RootNamespace>Usuarios</RootNamespace>
+    <AssemblyName>Usuarios</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -52,7 +52,7 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Models\Operacion.cs" />
+    <Compile Include="Models\Usuario.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
